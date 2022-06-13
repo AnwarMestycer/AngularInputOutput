@@ -1,0 +1,28 @@
+{
+    "ecom" : [{
+        "refProd" : "11111",
+        "nameProd" : "telephone",
+        "qteProd" : 40,
+        "photo" : "https://m.media-amazon.com/images/I/81sQxjJBn1L.jpg"
+    },
+    {
+        "refProd" : "22222",
+        "nameProd" : "tablette",
+        "qteProd" : 90,
+        "photo" : "https://m.media-amazon.com/images/I/81sQxjJBn1L.jpg"
+    },
+    {
+        "refProd" : "33333",
+        "nameProd" : "imprimante",
+        "qteProd" : 80,
+        "photo" : "https://m.media-amazon.com/images/I/81sQxjJBn1L.jpg"
+    },
+    {
+        "refProd" : "66666",
+        "nameProd" : "ordinateur",
+        "qteProd" : 60,
+        "photo" : "https://m.media-amazon.com/images/I/81sQxjJBn1L.jpg"
+    }
+
+    ]
+    }

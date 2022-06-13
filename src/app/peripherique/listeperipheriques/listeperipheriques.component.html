@@ -1,0 +1,15 @@
+<!-- <ul *ngFor = "let l of list" class="m-100">
+    
+        <app-peripherique [ref] = l.refProd class="row"></app-peripherique>
+    
+</ul> -->
+<p>panier :  {{ttc}} TTC</p>
+<table>
+    <tbody>
+        <tr>
+            <td *ngFor = "let l of list" class="m-100">
+                <app-peripherique [ref] = l.refProd (prix) = 'getx($event)' ></app-peripherique>
+            </td>
+        </tr>
+    </tbody>
+</table>
